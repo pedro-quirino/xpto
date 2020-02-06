@@ -1,5 +1,5 @@
-XPTO-EXTERNAL
-=============
-
 XPTO - INTERNAL
+===============
+
+XPTO - EXTERNAL
 ===============
