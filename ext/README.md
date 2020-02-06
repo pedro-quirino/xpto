@@ -1,1 +1,1 @@
-# xpto - External
+# XPTO-EXTERNAL

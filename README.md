@@ -1,1 +1,5 @@
-# xpto - Merged
+XPTO-EXTERNAL
+=============
+
+XPTO - INTERNAL
+===============
